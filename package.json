@@ -1,0 +1,25 @@
+{
+  "name": "grunt-example-1",
+  "version": "0.0.1",
+  "description": "Basic Grunt configuration",
+  "main": "index.js",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Moran <benmoran18@yahoo.co.uk>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmoran18/grunt-basic-configuration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benmoran18/grunt-basic-configuration/issues"
+  },
+  "homepage": "https://github.com/benmoran18/grunt-basic-configuration#readme"
+}
