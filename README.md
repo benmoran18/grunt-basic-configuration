@@ -1,5 +1,5 @@
 # grunt-basic-configuration
-This project demonstrates a simple grunt configuration which lints all javascript files in a given directory. If no errors are found, the files are them copied to a build folder where they are minified.
+This project demonstrates a simple grunt configuration which lints all javascript files in a given directory. If no errors are found, the files are then copied to a build folder where they are minified.
 
 ## Running the project
 
